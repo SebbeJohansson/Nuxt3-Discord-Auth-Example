@@ -13,8 +13,8 @@ export default defineNuxtConfig({
     },
     strategies: {
       discord: {
-        clientId: '1064293073380712488',
-        clientSecret: 'z0wkWiGJbblt_Bh_RPcWctgeshr9UDtt',
+        clientId: '{{clientid}}',
+        clientSecret: '{{clientsecret}}',
       },
     },
   },
