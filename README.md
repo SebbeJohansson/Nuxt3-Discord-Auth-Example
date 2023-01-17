@@ -14,9 +14,10 @@ Steps:
 1. Run `yarn run dev`.
 1. Go to `http://localhost:3000/auth/login` to login.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+*This repository is bare-boned on purpose. Please open an issue if something is unclear or if something should be added.*
 
-## Setup
+## Nuxt3 Setup
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 Make sure to install the dependencies:
 
